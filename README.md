@@ -8,7 +8,7 @@ For many reason i need to monitor some cache / document values.
 I found some template to monitor the default core named 'collection1'.
 I decide to create a discovery rule for corenames and monitor some item.
 
-This solution is based on https://github.com/Hackuracy/zabbix-solr-multicore/blob/master/README.md which is a combination of built-in jvm template and https://github.com/flaviotorres/zabbix using JMX connector
+This solution is based on https://github.com/Hackuracy/zabbix-solr-multicore/ which is a combination of built-in jvm template and https://github.com/flaviotorres/zabbix using JMX connector
 
 ## Discovery Rule
 
